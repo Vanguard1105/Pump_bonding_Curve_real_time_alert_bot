@@ -159,7 +159,7 @@ async function subscribeCommand(client: Client, args: SubscribeRequest) {
 }
 
 const client = new Client(
-  'https://grpc.fra.shyft.to/',
+  'SHYFT gRPC',
   '23cf6dd3-e616-4d08-9740-708f708f913e',
   undefined,
 );
